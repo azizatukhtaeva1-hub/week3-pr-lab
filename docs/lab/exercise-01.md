@@ -21,7 +21,7 @@ Time plan (30 minutes for the lab)
 By minute 30: forked and cloned.   By minute 40: edited, committed, and pushed.   By minute 50: Pull Request open with a good description.   By minute 55: PR link posted in the class channel, ready to review.
  
 The big picture
-Git tracks my work. GitHub helps people collaborate around that work. Today you use both: Git on your computer, GitHub in your browser.
+Git tracks your work. GitHub helps people collaborate around that work. Today you use both: Git on your computer, GitHub in your browser.
 #	Step	Where	What it does
 1	Fork	GitHub (browser)	Makes your own copy of the class repository under your account.
 2	Clone	Your computer	Downloads YOUR fork so you can work on it.
