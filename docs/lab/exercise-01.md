@@ -76,8 +76,8 @@ Open docs/lab/exercise-NN.md in your editor. Choose one of these (or several, if
 •	Fix the broken documentation link.
 •	Fix a formatting slip (for example a heading missing a space).
 •	Add a short useful example, such as this under Step 3:
-    git config --global user.name "Your Name"
-    git config --global user.email "you@example.com"
+    git config --global user.name "Maya"
+    git config --global user.email "maya@ajou.uz"
 Save the file, then check exactly what you changed:
 git diff
 Check
