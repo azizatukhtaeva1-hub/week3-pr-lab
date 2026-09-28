@@ -250,4 +250,4 @@ In 3 to 5 sentences: What did you learn about contributing to a project that you
 Before you leave
 Your PR link is posted. You left a review comment. You know what happened to your PR (open, merged, changes requested, or closed). You know your homework.
 
-
+Tip: run git status often to see which branch you are on.
